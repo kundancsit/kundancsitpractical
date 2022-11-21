@@ -14,3 +14,14 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/kundancsit/kundancsitpractical.git
 git push -u origin main
+
+
+INPUT
+n1 = int(input("enter a new number"))
+n2 = int(input("enter a second number"))
+res=n1+n2
+print("addition of two number=,"res)
+OUTPUT
+enter a new number 10
+enter a second number 20
+30
